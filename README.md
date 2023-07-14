@@ -15,13 +15,13 @@ press control + f and look for 'hawaii'
 
 To run the project and reproduce the analysis, you need the following dependencies:
 
-- Python (version X.X.X)
+- Python (version 3.11.4)
 - Jupyter Notebook
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
-- Scikit-learn
+- re
 
 ## Setup
 
